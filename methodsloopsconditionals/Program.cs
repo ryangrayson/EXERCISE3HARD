@@ -89,22 +89,19 @@ namespace methodsloopsconditionals
 
             //2. Write a method to display the multiplication table (from 1 to 12) of a give integer
 
-            
-
-            Console.WriteLine("Input the number 1");
-            //user input:
-            int i = Convert.ToInt32(Console.ReadLine());
-
-
-            //for (i = 1; i < 12; i++)
-            //{
-
-            //}
-
-            do
+            static void Mult(int num)
             {
+                for (int i = 1; i <=12; i++)
+                {
+                    var rslt = num * i;
+                    Console.WriteLine($"{num} * {i} = {rslt}");
 
-            } while (true);
+                }
+            };
+
+            Mult(4);
+
+
 
 
 
@@ -113,8 +110,7 @@ namespace methodsloopsconditionals
             //3. Write a method that takes a number from the user and retuns an array with that many indexes
             //The values shall be random numbers.
 
-            Console.WriteLine("Please type a number");
-            var userArray =Convert.ToInt32(Console.ReadLine());
+
 
 
 

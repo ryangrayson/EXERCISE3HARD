@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{33DDD3B1-AFF5-4849-9F1B-8F995BC26E38}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="methodsloopsconditionals/Program.cs">
     <Files>
-      <File FileName="methodsloopsconditionals/Program.cs" Line="1" Column="1" />
+      <File FileName="methodsloopsconditionals/Program.cs" Line="7" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,7 +17,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.methodsloopsconditionals FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.methodsloopsconditionals PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
