@@ -87,6 +87,55 @@ namespace methodsloopsconditionals
                 Console.WriteLine("Sorry, you are not in range");
             }
 
+            //2. Write a method to display the multiplication table (from 1 to 12) of a give integer
+
+            
+
+            Console.WriteLine("Input the number 1");
+            //user input:
+            int i = Convert.ToInt32(Console.ReadLine());
+
+
+            //for (i = 1; i < 12; i++)
+            //{
+
+            //}
+
+            do
+            {
+
+            } while (true);
+
+
+
+
+
+            //3. Write a method that takes a number from the user and retuns an array with that many indexes
+            //The values shall be random numbers.
+
+            Console.WriteLine("Please type a number");
+            var userArray =Convert.ToInt32(Console.ReadLine());
+
+
+
+
+
+
+            //4. Write a method to compute the sum of all elements in an array of integers
+
+
+
+
+
+            //5. Write a method to display the cube of the number up to given an integer.
+            //(if a user inputs the number 3 the method should print to the console:
+            //Number is: 1 and the cube of 1 is: 1, Number is: 2 and the cube of 2 is: 8,
+            //Number is: 3 and the cube of 3 is : 27
+
+
+
+
+
  
 
 

@@ -1,12 +1,3 @@
-/Users/ryangrayson/Repos/methodsloopsconditionals/methodsloopsconditionals/bin/Debug/netcoreapp3.1/methodsloopsconditionals.deps.json
-/Users/ryangrayson/Repos/methodsloopsconditionals/methodsloopsconditionals/bin/Debug/netcoreapp3.1/methodsloopsconditionals.runtimeconfig.json
-/Users/ryangrayson/Repos/methodsloopsconditionals/methodsloopsconditionals/bin/Debug/netcoreapp3.1/methodsloopsconditionals.runtimeconfig.dev.json
-/Users/ryangrayson/Repos/methodsloopsconditionals/methodsloopsconditionals/bin/Debug/netcoreapp3.1/methodsloopsconditionals.dll
-/Users/ryangrayson/Repos/methodsloopsconditionals/methodsloopsconditionals/bin/Debug/netcoreapp3.1/methodsloopsconditionals.pdb
-/Users/ryangrayson/Repos/methodsloopsconditionals/methodsloopsconditionals/obj/Debug/netcoreapp3.1/methodsloopsconditionals.csprojAssemblyReference.cache
 /Users/ryangrayson/Repos/methodsloopsconditionals/methodsloopsconditionals/obj/Debug/netcoreapp3.1/methodsloopsconditionals.AssemblyInfoInputs.cache
 /Users/ryangrayson/Repos/methodsloopsconditionals/methodsloopsconditionals/obj/Debug/netcoreapp3.1/methodsloopsconditionals.AssemblyInfo.cs
 /Users/ryangrayson/Repos/methodsloopsconditionals/methodsloopsconditionals/obj/Debug/netcoreapp3.1/methodsloopsconditionals.csproj.CoreCompileInputs.cache
-/Users/ryangrayson/Repos/methodsloopsconditionals/methodsloopsconditionals/obj/Debug/netcoreapp3.1/methodsloopsconditionals.dll
-/Users/ryangrayson/Repos/methodsloopsconditionals/methodsloopsconditionals/obj/Debug/netcoreapp3.1/methodsloopsconditionals.pdb
-/Users/ryangrayson/Repos/methodsloopsconditionals/methodsloopsconditionals/obj/Debug/netcoreapp3.1/methodsloopsconditionals.genruntimeconfig.cache
