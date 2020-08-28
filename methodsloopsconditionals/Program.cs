@@ -66,8 +66,33 @@ namespace methodsloopsconditionals
             else
             {
                 Console.WriteLine("Please enter a valid age");
+
+            }
+            Console.WriteLine("");
+            Console.WriteLine("==========HEATIN' UP==========");
+            Console.WriteLine("");
+
+            //1. Write a method to check if an integer (from the user) is in the range of -10 to 10)
+
+                Console.WriteLine("Type a round number");
+
+            var input = Int32.Parse(Console.ReadLine());
+
+            if (input <= 10 &&  input >= -10)
+            {
+                Console.WriteLine("You are in range");
+            }
+            else
+            {
+                Console.WriteLine("Sorry, you are not in range");
             }
 
+ 
+
+
+
+
+            
            
             
 
