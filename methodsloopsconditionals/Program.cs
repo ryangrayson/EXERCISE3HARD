@@ -136,13 +136,15 @@ namespace methodsloopsconditionals
             //Number is: 1 and the cube of 1 is: 1, Number is: 2 and the cube of 2 is: 8,
             //Number is: 3 and the cube of 3 is : 27
 
-            int numInput = 3;
+            int givenInteger = 5;
 
-            for (int i = numInput; i < 10; i++)
+            for (int i = 1; i <= givenInteger; i++)
             {
-                numInput *= numInput * numInput;
-                Console.WriteLine(numInput);
+                
+                Console.WriteLine($"Number is: {i} and the cube of is: {i * i * i}");
+
             }
+
             
 
                
