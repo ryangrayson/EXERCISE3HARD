@@ -103,22 +103,30 @@ namespace methodsloopsconditionals
 
 
 
-
-
-
-
             //3. Write a method that takes a number from the user and retuns an array with that many indexes
             //The values shall be random numbers.
+            Console.WriteLine("Enter a round number");
+            var userInput = Int32.Parse(Console.ReadLine());
+            var userArray = new int[userInput];
+            var random = new Random();
+           // Console.WriteLine(random.Next(0,50));
 
-
-
-
-
-
+            for (int i = 0; i < userArray.Length; i++)
+            {
+                userArray[i] = random.Next(1,15);
+                Console.WriteLine(userArray[i]);
+            }
 
 
             //4. Write a method to compute the sum of all elements in an array of integers
 
+
+            int sum = 0;
+            foreach (var num in userArray)
+            {
+                sum += num;
+            }
+            Console.WriteLine(sum);
 
 
 
@@ -127,6 +135,38 @@ namespace methodsloopsconditionals
             //(if a user inputs the number 3 the method should print to the console:
             //Number is: 1 and the cube of 1 is: 1, Number is: 2 and the cube of 2 is: 8,
             //Number is: 3 and the cube of 3 is : 27
+
+            int numInput = 3;
+
+            for (int i = numInput; i < 10; i++)
+            {
+                numInput *= numInput * numInput;
+                Console.WriteLine(numInput);
+            }
+            
+
+               
+                
+
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
